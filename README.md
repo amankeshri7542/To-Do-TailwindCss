@@ -32,7 +32,7 @@ Technologies Used:
 
 Installation & Usage
   Clone the repository:
-  git clone https://github.com/
+  git clone [https://github.com/](https://github.com/amankeshri7542/To-Do-TailwindCss.git)
 
 Open in browser:
   Simply open index.html in any modern browser
